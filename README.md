@@ -5,7 +5,7 @@
 #C++
 Apply sobel edge detector in 4 different programming languages
 
-**Comparision of result is shown as seperately in comparision.docx
+**Comparision of result is shown as seperately in comparision.docx in result folder
 **
 OpenCV library is used to make program runnable in c++, python and matlab.
 
